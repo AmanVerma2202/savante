@@ -37,7 +37,7 @@ const SignUp = () => {
         <div className="w-full lg:w-1/2 p-6 bg-gradient-to-r from-gray-900 to-gray-800 flex flex-col justify-center items-center rounded-t-lg lg:rounded-l-lg lg:rounded-tr-none order-first lg:order-last">
           <div className="text-center text-white">
             <div className="flex justify-center items-center">
-              <dotlottie-player src="https://lottie.host/a157f8b6-8ec2-47b5-9a7e-49b120fcd2c3/06LXBha2hZ.json" background="transparent" speed="1" style={{ width: '250px', height: '250px' }} direction="1" playMode="normal" loop autoplay></dotlottie-player>
+              <dotlottie-player src="https://lottie.host/a157f8b6-8ec2-47b5-9a7e-49b120fcd2c3/06LXBha2hZ.json" background="transparent" speed="1" style={{ width: '350px', height: '350px' }} direction="1" playMode="normal" loop autoplay></dotlottie-player>
             </div>
             <div className="mt-6 px-4">
               <h2 className="text-2xl text-gray-300 font-semibold"><Name /></h2>
