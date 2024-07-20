@@ -1,4 +1,4 @@
-cHosted Link :https://savante-83kv.vercel.app/
+Hosted Link :https://savante-83kv.vercel.app/
 
 # Savante
 
@@ -14,12 +14,17 @@ Savante is an upcoming Influencer AI Tech Company that aims to address two major
 
 
 ## Photos
-![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(79).png)
-![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(74).png)
-![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(75).png)
-![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(76).png)
-![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(77).png)
-![Alt text of the image](https://github.com/AmanVerma2202/HireWise/blob/main/Screenshot%20(78).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(80).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(81).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(82).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(83).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(84).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(85).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(86).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(87).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(88).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(89).png)
+![Alt text of the image](https://github.com/AmanVerma2202/savante/blob/main/Screenshot%20(90).png)
 
 
 ## Tech Stack
